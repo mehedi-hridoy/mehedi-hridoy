@@ -12,32 +12,36 @@
 
 ---
 
-# 💫 About Me:
-Frontend-focused Full Stack Engineer building modern web experiences and exploring AI automations.
+### 🧩 About Me
+- 👨‍💻 I'm a **Frontend-focused Full Stack Software Engineer**
+- 🚀 Currently learning **Docker, Kubernetes, and Next.js**
+- 🤖 Exploring **AI Agents & Automation workflows**
+- 💬 Ask me about **debugging, clean UI architecture, APIs, and JavaScript logic**
+- 🌱 Always building things that are fast, clean, and genuinely useful
+- 📬 Reach me at: **mehedi.hridoy101@gmail.com**
 
 ---
 
-### 🌱 Currently Learning
-- Docker • Kubernetes • Next.js
-
-### 🔭 Currently Working On
-Building clean, scalable frontend architectures and exploring AI automations with modern web technologies.
-
-### 💬 Ask Me About  
-The joys and pains of debugging, why tabs are *definitely* better than spaces, or how I keep myself functional with caffeine and curiosity.
-
-### 📫 Reach Me At  
-**mehedi.hridoy101@gmail.com**
-
 ---
 
-<h3 align="left">Connect with Me</h3>
+### 🌐 Find Me At
 
-<p align="left">
-<a href="https://linkedin.com/in/mehedi-hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://fb.com/mehedi.hridoy101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mehedi.hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/hridoy15-5097/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leetcode.svg" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/mehedi-hridoy" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  
+  <a href="https://fb.com/mehedi.hridoy101" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://codeforces.com/profile/mehedi.hridoy" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/hridoy15-5097/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 
