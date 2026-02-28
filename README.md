@@ -4,11 +4,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Engineer;Exploring+AI+Agents+%26+AI+Automations" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mehedi-hridoy&theme=flat&no-bg=true&margin-w=15" />
-</p>
 
 ---
 
